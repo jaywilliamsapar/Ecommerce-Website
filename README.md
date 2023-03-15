@@ -1,5 +1,6 @@
 # Ecommerce-Website
-Ecommerce Website Sample
+
+ʤ This is a Sample E-commerce website for motorcycle list that available in the Philippines.
 
 
 # Added paragraph for News and Update ....
